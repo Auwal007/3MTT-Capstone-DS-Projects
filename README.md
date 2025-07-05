@@ -31,7 +31,10 @@ The projects span various domains including insurance, media analysis, healthcar
 
 ## 🚀 Capstone Projects Overview
 
-### 📊 Capstone 1: Insurance Premium Prediction
+
+### [📊 Capstone 1: Insurance Premium Prediction]([URL](https://github.com/Auwal007/3MTT-Capstone-DS-Projects/tree/main/Capstone%201))
+
+
 **Domain**: Financial Services | **Type**: Regression
 
 Predicting insurance premium amounts using customer demographics, policy details, and financial information. This project demonstrates advanced feature engineering techniques and regression modeling.
@@ -46,7 +49,9 @@ Predicting insurance premium amounts using customer demographics, policy details
 
 ---
 
-### 📰 Capstone 2: Fake News Detection  
+### [📰 Capstone 2: Fake News Detection](https://github.com/Auwal007/3MTT-Capstone-DS-Projects/tree/main/Capstone%202)
+
+
 **Domain**: Media & Information | **Type**: NLP Classification
 
 Detecting fake news using natural language processing and machine learning techniques on news articles from multiple sources.
@@ -61,7 +66,9 @@ Detecting fake news using natural language processing and machine learning techn
 
 ---
 
-### 🏢 Capstone 3: Employee Burnout Prediction
+### [🏢 Capstone 3: Employee Burnout Prediction](https://github.com/Auwal007/3MTT-Capstone-DS-Projects/tree/main/Capstone%203)
+
+
 **Domain**: Human Resources | **Type**: Regression
 
 Predicting employee burnout rates for NeuroWell Analytics to proactively address mental health concerns in the workplace.
@@ -76,7 +83,9 @@ Predicting employee burnout rates for NeuroWell Analytics to proactively address
 
 ---
 
-### 🚚 Capstone 4: Delivery Delay Prediction
+### [🚚 Capstone 4: Delivery Delay Prediction]([URL](https://github.com/Auwal007/3MTT-Capstone-DS-Projects/tree/main/Capstone%204))
+
+
 **Domain**: Logistics & Supply Chain | **Type**: Multi-class Classification
 
 Optimizing logistics operations for SwiftChain Analytics by predicting delivery delays (early, on-time, late) using comprehensive logistics data.
