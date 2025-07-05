@@ -32,7 +32,7 @@ The projects span various domains including insurance, media analysis, healthcar
 ## 🚀 Capstone Projects Overview
 
 
-### [📊 Capstone 1: Insurance Premium Prediction]([URL](https://github.com/Auwal007/3MTT-Capstone-DS-Projects/tree/main/Capstone%201))
+### [📊 Capstone 1: Insurance Premium Prediction](https://github.com/Auwal007/3MTT-Capstone-DS-Projects/tree/main/Capstone%201)
 
 
 **Domain**: Financial Services | **Type**: Regression
