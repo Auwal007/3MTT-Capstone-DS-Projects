@@ -83,7 +83,7 @@ Predicting employee burnout rates for NeuroWell Analytics to proactively address
 
 ---
 
-### [🚚 Capstone 4: Delivery Delay Prediction]([URL](https://github.com/Auwal007/3MTT-Capstone-DS-Projects/tree/main/Capstone%204))
+### [🚚 Capstone 4: Delivery Delay Prediction](https://github.com/Auwal007/3MTT-Capstone-DS-Projects/tree/main/Capstone%204)
 
 
 **Domain**: Logistics & Supply Chain | **Type**: Multi-class Classification
